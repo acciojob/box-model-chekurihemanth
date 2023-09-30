@@ -9,5 +9,18 @@ body{
 }
 
 .container{
-	
+	block: center;
+	color: #ffffff;
+}
+
+.green{
+	color: rgb(0, 128, 0);
+}
+
+.yellow{
+	color: rgb(255, 255, 0);
+}
+
+.red{
+	color: rgb(255, 0, 0)
 }
